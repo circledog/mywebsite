@@ -5,9 +5,13 @@
 希望點進來的你有興趣讀完<br>
 
 # 目錄
-<table><tr><td bgcolor=beige>    
- [e04](#關於我)
-    * [123]
+* [基本資料](#基本資料)
+   * [關於我](#關於我)
+   * 
+<table><tr><td bgcolor=beige>
 </td></tr></table>
+
+## 基本資料
+
 ## 關於我
     123
