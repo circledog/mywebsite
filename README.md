@@ -21,13 +21,13 @@
 </td></tr></table>
 
 ### 個人簡歷
-| 時間 | 曾任職位 | 時間 | 社團經歷 |
-| :--- | :------ | :--- | :------ |
-| 高一 |糾察隊 | 高一 | 糾儀社  |
-| 高二 |糾察隊 | 高二 | 繪畫社  |
-| 高三 |學生會代表 | 高三 | 書香社|
+| 曾任職位 | 社團經歷 |
+| ------ | ------ |
+| 糾察隊 | 糾儀社  |
+| 糾察隊 | 繪畫社  |
+| 學生會代表 | 書香社 |
 
-| Syntax | Description |
-| --- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
