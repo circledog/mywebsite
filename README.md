@@ -27,3 +27,7 @@
 | 高二 |糾察隊 | 高二 | 繪畫社  |
 | 高三 |學生會代表 | 高三 | 書香社|
 * 專長
+| Syntax | Description |
+| --- | ----------- |
+| Header | Title |
+| Paragraph | Text |
